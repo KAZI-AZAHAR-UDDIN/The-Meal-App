@@ -32,7 +32,7 @@ CSS
 JavaScript
 
 ## Demo
-Check out the live demo of the application at 
+Check out the live demo of the application at https://kazi-azahar-uddin.github.io/The-Meal-App/
 
 ## Authors
 @KAZI-AZAHAR-UDDIN
